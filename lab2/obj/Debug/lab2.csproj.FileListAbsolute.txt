@@ -1,0 +1,30 @@
+D:\Учеба\Мага_2курс\2семестр\Автоматическая Обработка Текста\Лаб2\lab2\lab2\bin\Debug\lab2.exe.config
+D:\Учеба\Мага_2курс\2семестр\Автоматическая Обработка Текста\Лаб2\lab2\lab2\bin\Debug\lab2.exe
+D:\Учеба\Мага_2курс\2семестр\Автоматическая Обработка Текста\Лаб2\lab2\lab2\bin\Debug\lab2.pdb
+D:\Учеба\Мага_2курс\2семестр\Автоматическая Обработка Текста\Лаб2\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\Учеба\Мага_2курс\2семестр\Автоматическая Обработка Текста\Лаб2\lab2\lab2\obj\Debug\lab2.Form1.resources
+D:\Учеба\Мага_2курс\2семестр\Автоматическая Обработка Текста\Лаб2\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\Учеба\Мага_2курс\2семестр\Автоматическая Обработка Текста\Лаб2\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\Учеба\Мага_2курс\2семестр\Автоматическая Обработка Текста\Лаб2\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Учеба\Мага_2курс\2семестр\Автоматическая Обработка Текста\Лаб2\lab2\lab2\obj\Debug\lab2.exe
+D:\Учеба\Мага_2курс\2семестр\Автоматическая Обработка Текста\Лаб2\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\qwerty123\Desktop\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\qwerty123\Desktop\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\qwerty123\Desktop\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\qwerty123\Desktop\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\qwerty123\Desktop\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\qwerty123\Desktop\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\qwerty123\Desktop\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\qwerty123\Desktop\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\qwerty123\Desktop\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\qwerty123\Desktop\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\Dmitry\source\repos\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\Dmitry\source\repos\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\lab2\lab2\bin\Debug\app.exe.config
+C:\Users\Dmitry\source\repos\lab2\lab2\bin\Debug\app.exe
+C:\Users\Dmitry\source\repos\lab2\lab2\bin\Debug\app.pdb
+C:\Users\Dmitry\source\repos\lab2\lab2\obj\Debug\app.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\lab2\lab2\obj\Debug\app.exe
+C:\Users\Dmitry\source\repos\lab2\lab2\obj\Debug\app.pdb
+C:\Users\Dmitry\source\repos\lab2\lab2\obj\Debug\app.Form1.resources

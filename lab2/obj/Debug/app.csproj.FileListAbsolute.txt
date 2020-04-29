@@ -1,0 +1,23 @@
+C:\Users\Dmitry\source\repos\lab2\bin\Debug\app.exe.config
+C:\Users\Dmitry\source\repos\lab2\bin\Debug\app.exe
+C:\Users\Dmitry\source\repos\lab2\bin\Debug\app.pdb
+C:\Users\Dmitry\source\repos\lab2\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\lab2\obj\Debug\app.Form1.resources
+C:\Users\Dmitry\source\repos\lab2\obj\Debug\app.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\lab2\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\Dmitry\source\repos\lab2\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\lab2\obj\Debug\app.exe
+C:\Users\Dmitry\source\repos\lab2\obj\Debug\app.pdb
+C:\Users\Dmitry\source\repos\morphological analysis of the text\lab2\bin\Debug\app.exe.config
+C:\Users\Dmitry\source\repos\morphological analysis of the text\lab2\bin\Debug\app.exe
+C:\Users\Dmitry\source\repos\morphological analysis of the text\lab2\bin\Debug\app.pdb
+C:\Users\Dmitry\source\repos\morphological analysis of the text\lab2\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\morphological analysis of the text\lab2\obj\Debug\app.Form1.resources
+C:\Users\Dmitry\source\repos\morphological analysis of the text\lab2\obj\Debug\app.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\morphological analysis of the text\lab2\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\Dmitry\source\repos\morphological analysis of the text\lab2\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\morphological analysis of the text\lab2\obj\Debug\app.exe
+C:\Users\Dmitry\source\repos\morphological analysis of the text\lab2\obj\Debug\app.pdb
+C:\Users\Dmitry\source\repos\morphological analysis of the text\app\app.exe.config
+C:\Users\Dmitry\source\repos\morphological analysis of the text\app\app.exe
+C:\Users\Dmitry\source\repos\morphological analysis of the text\app\app.pdb
